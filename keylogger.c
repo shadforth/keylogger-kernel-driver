@@ -1,6 +1,6 @@
 #include <linux/kernel.h>
 #include <asm/uaccess.h>
-#include "S3332777Keylogger.h"
+#include "keylogger.h"
 
 #define DEVICE_NAME "keylogger"
 #define MAJOR_NUMBER 250
