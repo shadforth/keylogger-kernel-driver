@@ -1,6 +1,6 @@
 #CONFIG_MODULE_SIG=n
 
-obj-m += S3332777Keylogger.o
+obj-m += keylogger.o
 
 KERNELDIR = /usr/src/linux-headers-$(shell uname -r)
 
